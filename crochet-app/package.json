@@ -27,13 +27,15 @@
     "qwik": "qwik"
   },
   "devDependencies": {
+    "@auth/qwik": "0.2.2",
     "@builder.io/qwik": "^1.10.0",
-    "@builder.io/qwik-city": "^1.10.0",
+    "@builder.io/qwik-city": "latest",
     "@types/eslint": "8.56.10",
     "@types/node": "20.14.11",
     "@typescript-eslint/eslint-plugin": "7.16.1",
     "@typescript-eslint/parser": "7.16.1",
     "autoprefixer": "^10.4.19",
+    "drizzle-kit": "^0.28.1",
     "eslint": "8.57.0",
     "eslint-plugin-qwik": "^1.10.0",
     "postcss": "^8.4.39",
@@ -44,5 +46,9 @@
     "undici": "*",
     "vite": "5.3.5",
     "vite-tsconfig-paths": "^4.2.1"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "drizzle-orm": "^0.36.3"
   }
 }
