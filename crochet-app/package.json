@@ -27,7 +27,7 @@
     "qwik": "qwik"
   },
   "devDependencies": {
-    "@auth/qwik": "0.2.2",
+    "@auth/qwik": "latest",
     "@builder.io/qwik": "^1.10.0",
     "@builder.io/qwik-city": "latest",
     "@types/eslint": "8.56.10",
