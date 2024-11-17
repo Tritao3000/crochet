@@ -49,6 +49,8 @@
   },
   "dependencies": {
     "@libsql/client": "^0.14.0",
-    "drizzle-orm": "^0.36.3"
+    "auth": "^1.2.3",
+    "drizzle-orm": "^0.36.3",
+    "secret": "^1.2.0"
   }
 }
