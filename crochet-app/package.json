@@ -49,6 +49,7 @@
   },
   "dependencies": {
     "@libsql/client": "^0.14.0",
+    "@paralleldrive/cuid2": "^2.2.2",
     "auth": "^1.2.3",
     "drizzle-orm": "^0.36.3",
     "secret": "^1.2.0"

@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1731932508807,
+      "tag": "0000_tan_randall",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1731934001210,
+      "tag": "0001_slippery_betty_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1731934800233,
+      "tag": "0002_famous_pixie",
+      "breakpoints": true
+    }
+  ]
+}
